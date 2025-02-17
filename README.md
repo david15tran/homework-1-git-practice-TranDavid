@@ -9,4 +9,8 @@ My submission for Computer Science 351, Section 7, Lab Week 1
 
 ## Instructions
 
-Write a Program in C++ Prompting a Return Message For "Hello World", as well as return the value "23".
+Required Statement: I promise not to forget that all future assignments may be heavily penalized for failure to commit frequently as I do my work.
+
+P.S Howdy Proffesor, Hows Your Sunday?
+
+I Want To Not Commit Ten Usually Long Times!
