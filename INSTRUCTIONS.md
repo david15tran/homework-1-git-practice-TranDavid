@@ -1,7 +1,7 @@
 
 # Homework 1 - Git Practice
 
-Hello, Class!
+Hello, Class
 
 This is our first official assignment of the semester together, and it's going to be pretty easy. All I want you to do is create a text file, fill out some information, and use git from the command line to push your submission back up to Github! Consider this practice for your first coding project.
 
