@@ -1,4 +1,4 @@
-# Homework 1 - Git Practice
+# Homework - Git Practice
 My submission for Computer Science 351, Section 7, Lab Week 1
 
 # My Information
